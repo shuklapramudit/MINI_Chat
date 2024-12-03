@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(186, 121, 34);
+}
+h3{
+    margin-top: 20px;
+    text-align: center;
+    font-size: larger;
+}
+
+
+
+.chat{
+    background-color: aliceblue;
+    margin: 30px;
+    padding: 20px;
+    height: 170px;
+    width: 80%;
+    border-radius: 50px;
+    margin-left: 10%;
+    display: inline-block;
+}
+
+.msg{
+    color: white;padding: 5px;
+
+}
